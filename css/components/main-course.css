@@ -1,10 +1,10 @@
 .main-course
 {
-    display: inline;
     margin: auto;
+    padding-bottom: 4rem;
 }
 
 .main-course:nth-child(odd)
 {
-    margin-right: 40px;
+    margin-right: 4rem;
 }
