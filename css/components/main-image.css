@@ -1,0 +1,15 @@
+.main-image
+{
+    height: 300px;
+    display: flex;
+}
+
+.title-image
+{
+    font-size: 2.6rem;
+}
+
+.title-image:hover
+{
+    text-decoration: underline;
+}

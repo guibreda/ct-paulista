@@ -11,7 +11,7 @@ header
     justify-content: center;
 }
 
-.main-menu .hidden
+.hidden
 {
     display: none;
 }
