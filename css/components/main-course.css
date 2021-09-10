@@ -2,6 +2,8 @@
 {
     max-width: 540px;
     padding-bottom: 4rem;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .main-course:nth-child(odd)

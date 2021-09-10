@@ -13,3 +13,15 @@
 {
     text-decoration: underline;
 }
+
+.comment
+{
+    font-weight: 900;
+    display: inline-block;
+    color: var(--color-font-and-background);
+    padding-top: 20px;
+}
+.comment:hover
+{
+    text-decoration: underline;
+}

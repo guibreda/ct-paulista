@@ -1,4 +1,11 @@
 .main-footer
 {
     grid-area: footer;
+    padding: 25px;
+    text-align: center;
+}
+
+.main-footer a:hover
+{
+    text-decoration: underline;
 }
