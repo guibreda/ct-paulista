@@ -1,12 +1,13 @@
 .main-image
 {
-    height: 300px;
+    margin-bottom: 30px;
     display: flex;
 }
 
 .title-image
 {
-    font-size: 2.6rem;
+    font-size: 3.2rem;
+    line-height: 4rem;
 }
 .title-image:hover
 {

@@ -1,7 +1,6 @@
 html
 {
     font-size: 62.5%;
-    font-family: 'Merriweather', serif;
 }
 
 *{
@@ -15,10 +14,18 @@ body
 {
     line-height: 1;
     font-size: 1.6rem;
+    color: var(--color-font-title-course);
+    font-family: 'Merriweather', serif;
+    display: grid;
+    grid-template-areas: 
+    "header header header"
+    ".      main   .     "
+    "footer footer footer";
+    grid-template-columns: 230px 1fr 230px;
 }
 
 a
 {
     text-decoration: none;
-    color: black;
+    color: var(--color-font-title-course);
 }

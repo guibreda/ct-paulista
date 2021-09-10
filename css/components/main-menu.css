@@ -1,13 +1,19 @@
 header
 {
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
     display: block;
+    grid-area: header;
+    background-color: #fff;
+    box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.1);
 }
 
 .main-menu
 {
     display: flex;
-    padding-top: 45px;
-    padding-bottom: 45px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     justify-content: center;
 }
 
