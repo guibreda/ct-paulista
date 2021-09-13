@@ -1,0 +1,35 @@
+.contact
+{
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    justify-content: space-between;
+    width: 99vw;
+}
+
+.phone,
+.whatsapp
+{
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+.phone img,
+.whatsapp img
+{
+    display: block;
+    margin: auto;
+    width: 60%;
+}
+
+.phone
+{
+    background-color: var(--background-color-img-phone);  
+}
+.whatsapp
+{
+    background-color: var(--background-color-img-whatsapp);   
+}
