@@ -1,0 +1,6 @@
+.bg-green
+{
+    background-color: var(--color-font-and-background);
+    height: 100vh;
+    width: 100vw;
+}
