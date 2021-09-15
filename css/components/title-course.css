@@ -1,0 +1,13 @@
+.wrapper
+{
+    position: relative;
+}
+
+.title-course
+{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    bottom: 30px;
+    left: 20px;
+}

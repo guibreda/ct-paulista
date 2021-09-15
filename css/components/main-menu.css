@@ -51,3 +51,8 @@ header.white
 {
     text-decoration: underline;
 }
+
+.main-menu.-white ul a
+{
+    color: #fff;
+}
