@@ -19,6 +19,7 @@ header.white
     padding-top: 20px;
     padding-bottom: 20px;
     justify-content: center;
+    /* align-items: center; */
 }
 
 .hidden

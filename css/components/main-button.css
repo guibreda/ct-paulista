@@ -1,0 +1,15 @@
+.main-button
+{
+    background-color: var(--color-font-and-background);
+    padding: 15px;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.main-button:hover
+{
+    text-decoration: underline;
+    cursor: pointer;
+}
